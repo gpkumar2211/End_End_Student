@@ -1,0 +1,22 @@
+.menu {
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+    text-align: right;
+    background: #ddddef;
+    line-height: 40px;
+}
+
+.menu>li {
+    display: inline;
+    margin-right: 15px;
+    letter-spacing: 5px;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.menuActive {
+    color: red;
+    font-weight: bold;
+    text-shadow: 2px 2px 2px white;
+}

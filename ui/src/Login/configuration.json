@@ -1,0 +1,26 @@
+[
+    {
+        "lbl": "User ID",
+        "tag": "input",
+        "type": "text",
+        "errorMessage": "",
+        "model": "uid",
+        "value": "",
+        "criteria": [
+            "Required",
+            "EmailFormat"
+        ]
+    },
+    {
+        "lbl": "Password",
+        "tag": "input",
+        "model": "pwd",
+        "type": "password",
+        "errorMessage": "",
+        "value": "",
+        "criteria": [
+            "Required",
+            "Min5Chars"
+        ]
+    }
+]

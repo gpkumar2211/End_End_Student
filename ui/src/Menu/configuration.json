@@ -1,0 +1,22 @@
+[
+    {
+        "id": "home",
+        "item": "Home",
+        "path": "home"
+    },
+    {
+        "id": "users",
+        "item": "Users",
+        "path": "users"
+    },
+    {
+        "id": "profile",
+        "item": "Profile",
+        "path": "profile"
+    },
+    {
+        "id": "logout",
+        "item": "Logout",
+        "path": "/"
+    }
+]
